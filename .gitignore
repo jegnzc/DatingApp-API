@@ -397,3 +397,6 @@ FodyWeavers.xsd
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Private settings configuration
+appsettings.json
