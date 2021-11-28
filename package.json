@@ -1,2 +1,19 @@
 {
+  "name": "datingappproject",
+  "version": "1.0.0",
+  "description": "API used in my Dating App Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegnzc/DatingApp-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jegnzc/DatingApp-API/issues"
+  },
+  "homepage": "https://github.com/jegnzc/DatingApp-API#readme"
 }
